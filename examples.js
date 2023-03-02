@@ -1,6 +1,6 @@
 function ex0() {
-    document.getElementById('demo').innerHTML = Date()
-}
+    alert("Hello " + username);
+};
 
 function ex1() {
     let placeholder = `// Example obfuscated code
@@ -15,7 +15,7 @@ function ex1() {
         total += i;
         }
         console[_0x34c7bc(-(0x1e7c + -0x1 * -0x1367 + 0x2ef * -0x11))](_0x498b9b(-(0x1020 + 0x253 + 0x7 * -0x2a2)) + _0x23a1(-(0x12c5 + -0x1887 + -0x1 * -0x5c5)) + total);
-}
+};
 
 function ex2() {
     let total = 0;
@@ -23,4 +23,4 @@ function ex2() {
         total += i;
     }
     console.log("Total: " + total); 
-}
+};
