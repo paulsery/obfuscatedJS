@@ -27,5 +27,5 @@ function ex2() {
 
 
 function ex3() {
-    alert("Hello " + username)
+    alert("Hello " + username);
 };
