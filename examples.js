@@ -24,3 +24,8 @@ function ex2() {
     }
     console.log("Total: " + total); 
 };
+
+
+function ex3() {
+    alert("Hello " + username)
+};
