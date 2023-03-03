@@ -1,9 +1,10 @@
 function ex0() {
-    alert("Hello " + username);
+    console.log("Hello ");
 };
 
 function ex1() {
-window.onload = function() { alert("Hello " + username) };
+    console.log("Hello ") 
+};
 
 function ex2() {
     let total = 0;
@@ -15,5 +16,5 @@ function ex2() {
 
 
 function ex3() {
-    alert("Hello " + username);
+    console.log("Hello ");
 };
