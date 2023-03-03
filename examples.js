@@ -9,8 +9,8 @@ function ex1() {
 
 // https://superuser.com/questions/418121/what-is-javascript-obfuscation-and-why-is-it-a-threat
 function ex2() {
-    var _0xc5b2=["\x6F\x6E\x6C\x6F\x61\x64", "\x48\x65\x6C\x6C\x6F\x20"];window[_0xc5b2[0]]=
-//    function (){alert(_0xc5b2[1]+username);}
+    var _0xc5b2=["\x6F\x6E\x6C\x6F\x61\x64", "\x48\x65\x6C\x6C\x6F\x20"];window[_0xc5b2[0]]
+    //function (){alert(_0xc5b2[1]+username);}
 };
 
 // https://superuser.com/questions/418121/what-is-javascript-obfuscation-and-why-is-it-a-threat
