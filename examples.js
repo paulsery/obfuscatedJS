@@ -7,11 +7,8 @@ function ex1() {
 };
 
 function ex2() {
-    let total = 0;
-    for (let i = 0; i < 10; i++) {
-        total += i;
-    }
-    console.log("Total: " + total); 
+    var _0xc5b2=["\x6F\x6E\x6C\x6F\x61\x64", "\x48\x65\x6C\x6C\x6F\x20"];window[_0xc5b2[0]]=
+//    function (){alert(_0xc5b2[1]+username);}
 };
 
 
