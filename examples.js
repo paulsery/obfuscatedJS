@@ -4,6 +4,7 @@ function ex0() {
 
 // https://superuser.com/questions/418121/what-is-javascript-obfuscation-and-why-is-it-a-threat
 function ex1() {
+    let username = "paul";
     alert("Hello " + username);
 };
 
