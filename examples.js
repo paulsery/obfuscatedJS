@@ -15,7 +15,7 @@ function ex2() {
 
 // https://superuser.com/questions/418121/what-is-javascript-obfuscation-and-why-is-it-a-threat
 function ex3() {
-    eval(unescape("var%20_0xc5b2%3D%5B%22onload%22%2C%22Hello%20%22%5D%3Bwindow"+
+    console.log(eval(unescape("var%20_0xc5b2%3D%5B%22onload%22%2C%22Hello%20%22%5D%3Bwindow"+
   "%5B_0xc5b2%5B0%5D%5D%3Dfunction%20%28%29%7Balert%28_0xc5b2%5B1%5D+username"+
-  "%29%3B%7D%20%3B"));
+  "%29%3B%7D%20%3B")));
 };
