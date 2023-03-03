@@ -3,7 +3,7 @@ function ex0() {
 };
 
 function ex1() {
-    console.log("Hello ") 
+    alert("Hello " + username);
 };
 
 function ex2() {
